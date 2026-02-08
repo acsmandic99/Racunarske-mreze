@@ -29,3 +29,13 @@ C:\Users\Milos\Downloads\PRMIProjekat-main\PRMIProjekat-main\Sedmice\Server\obj\
 C:\Users\Milos\Downloads\PRMIProjekat-main\PRMIProjekat-main\Sedmice\Server\obj\Debug\Server.exe
 C:\Users\Milos\Downloads\PRMIProjekat-main\PRMIProjekat-main\Sedmice\Server\obj\Debug\Server.pdb
 C:\Users\Milos\Downloads\PRMIProjekat-main\PRMIProjekat-main\Sedmice\Server\obj\Debug\Server.exe.config
+C:\Users\strah\source\repos\Racunarske-mreze\Sedmice\Server\bin\Debug\Server.exe.config
+C:\Users\strah\source\repos\Racunarske-mreze\Sedmice\Server\bin\Debug\Server.exe
+C:\Users\strah\source\repos\Racunarske-mreze\Sedmice\Server\bin\Debug\Server.pdb
+C:\Users\strah\source\repos\Racunarske-mreze\Sedmice\Server\bin\Debug\Klase.dll
+C:\Users\strah\source\repos\Racunarske-mreze\Sedmice\Server\bin\Debug\Klase.pdb
+C:\Users\strah\source\repos\Racunarske-mreze\Sedmice\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\strah\source\repos\Racunarske-mreze\Sedmice\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\strah\source\repos\Racunarske-mreze\Sedmice\Server\obj\Debug\Server.csproj.Up2Date
+C:\Users\strah\source\repos\Racunarske-mreze\Sedmice\Server\obj\Debug\Server.exe
+C:\Users\strah\source\repos\Racunarske-mreze\Sedmice\Server\obj\Debug\Server.pdb

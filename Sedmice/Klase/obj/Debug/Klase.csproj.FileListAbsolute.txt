@@ -1,0 +1,6 @@
+C:\Users\strah\source\repos\Racunarske-mreze\Sedmice\Klase\bin\Debug\Klase.dll
+C:\Users\strah\source\repos\Racunarske-mreze\Sedmice\Klase\bin\Debug\Klase.pdb
+C:\Users\strah\source\repos\Racunarske-mreze\Sedmice\Klase\obj\Debug\Klase.csproj.AssemblyReference.cache
+C:\Users\strah\source\repos\Racunarske-mreze\Sedmice\Klase\obj\Debug\Klase.csproj.CoreCompileInputs.cache
+C:\Users\strah\source\repos\Racunarske-mreze\Sedmice\Klase\obj\Debug\Klase.dll
+C:\Users\strah\source\repos\Racunarske-mreze\Sedmice\Klase\obj\Debug\Klase.pdb
