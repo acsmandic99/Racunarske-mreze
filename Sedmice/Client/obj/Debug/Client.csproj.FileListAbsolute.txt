@@ -1,0 +1,7 @@
+E:\Users\Documents\mreze2026\Sedmice\Client\bin\Debug\Client.exe.config
+E:\Users\Documents\mreze2026\Sedmice\Client\bin\Debug\Client.exe
+E:\Users\Documents\mreze2026\Sedmice\Client\bin\Debug\Client.pdb
+E:\Users\Documents\mreze2026\Sedmice\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\Users\Documents\mreze2026\Sedmice\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Users\Documents\mreze2026\Sedmice\Client\obj\Debug\Client.exe
+E:\Users\Documents\mreze2026\Sedmice\Client\obj\Debug\Client.pdb

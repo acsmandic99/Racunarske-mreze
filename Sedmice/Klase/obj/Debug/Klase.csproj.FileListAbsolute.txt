@@ -1,0 +1,6 @@
+E:\Users\Documents\mreze2026\Sedmice\Klase\bin\Debug\Klase.dll
+E:\Users\Documents\mreze2026\Sedmice\Klase\bin\Debug\Klase.pdb
+E:\Users\Documents\mreze2026\Sedmice\Klase\obj\Debug\Klase.csproj.AssemblyReference.cache
+E:\Users\Documents\mreze2026\Sedmice\Klase\obj\Debug\Klase.csproj.CoreCompileInputs.cache
+E:\Users\Documents\mreze2026\Sedmice\Klase\obj\Debug\Klase.dll
+E:\Users\Documents\mreze2026\Sedmice\Klase\obj\Debug\Klase.pdb
